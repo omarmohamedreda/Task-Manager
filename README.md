@@ -1,6 +1,6 @@
 # Task-Manager (ToDo App) 📝
 
-Welcome to the **Task-Manager (ToDo App)**! This is a simple yet effective application for managing your daily tasks, built using **HTML**, **CSS**, and **JavaScript**.
+Welcome to the **Task-Manager (ToDo App)**  This is a simple yet effective application for managing your daily tasks.
 
 ---
 
